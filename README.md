@@ -6,7 +6,7 @@ paired with 4-button keyfobs.
 
 The RM4 library provides a class, `RM4`, that provides a convenient interface
 for translating the four data pins into a 4-bit button code. An example,
-*show_buttons.pde*, is provided to demonstate how to use RM4.
+*show_buttons.pde*, is provided to demonstrate how to use RM4.
 
 The module on which RM4 is based, and the configuration in which the example is
 run, is shown in the picture below.
